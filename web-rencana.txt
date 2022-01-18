@@ -2,6 +2,7 @@
   -> Applikasi sederhana
   -> Applikasi Client Server
      CRUD
+     MVC
 - Struktur Data Dasar
 - Bikin Dokumentasi
 - Codeigniter
