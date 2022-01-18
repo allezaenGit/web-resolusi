@@ -1,8 +1,8 @@
 - Bikin applikasi dengan Partner
   -> Applikasi sederhana
   -> Applikasi Client Server
-     CRUD
-     MVC
+     Server Side
+     Datatable
 - Struktur Data Dasar
 - Bikin Dokumentasi
 - Codeigniter
