@@ -1,0 +1,4 @@
+- Bikin applikasi dengan Partner
+  -> Applikasi sederhana
+  -> Applikasi Client Server
+- Bikin Dokumentasi
