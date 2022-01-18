@@ -2,5 +2,5 @@ Web Resolusi
 - Belajar GitHub dari pemula hingga mahir
 - Belajar NgoDing dengan Team
 - Membuat Project 
-- Mengerjakan Project dengan Teman dan Belajar Bersama.
 - Kolaborasi dengan para Master
+- Kerjasama dengan Partner
