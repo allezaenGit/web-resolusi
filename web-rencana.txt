@@ -1,4 +1,5 @@
 - Bikin applikasi dengan Partner
   -> Applikasi sederhana
   -> Applikasi Client Server
+- Struktur Data Dasar
 - Bikin Dokumentasi
