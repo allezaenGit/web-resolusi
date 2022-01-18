@@ -1,5 +1,7 @@
 - Bikin applikasi dengan Partner
   -> Applikasi sederhana
   -> Applikasi Client Server
+     CRUD
 - Struktur Data Dasar
 - Bikin Dokumentasi
+- Codeigniter
